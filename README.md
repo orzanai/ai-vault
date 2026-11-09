@@ -1,0 +1,15 @@
+# AI Vault
+
+Free prompts and resources from my reels on AI, agents and building with code. Copy, paste, ship.
+
+New reels add new entries. ⭐ Star the repo to get them.
+
+| # | Reel | Resource |
+|---|------|----------|
+| 01 | Your vibe-coded app has 7 security holes | [AUDIT prompt](01-audit.md) |
+
+---
+
+Made by [@orzan.ai](https://instagram.com/orzan.ai) on Instagram. Comment the keyword on a reel and the link lands in your DMs.
+
+Free to use. No warranty: always review what an AI changes in your code.
