@@ -1,0 +1,13 @@
+[
+  {
+    "id": "audit",
+    "n": "01",
+    "keyword": "AUDIT",
+    "title": "7 security holes in vibe-coded apps",
+    "hook": "Your vibe-coded app has 7 security holes. Hackers know them. You don't.",
+    "summary": "One prompt that makes Claude Code audit your project for leaked keys, open databases, missing rate limits and more, then fixes them with your approval.",
+    "type": "Prompt",
+    "tags": ["security", "claude code", "supabase"],
+    "file": "01-audit.md"
+  }
+]
