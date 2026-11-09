@@ -2,6 +2,8 @@
 
 Free prompts and resources from my reels on AI, agents and building with code. Copy, paste, ship.
 
+**→ Open the vault: [orzanai.github.io/ai-vault](https://orzanai.github.io/ai-vault/)** (search your keyword, one-tap copy)
+
 New reels add new entries. ⭐ Star the repo to get them.
 
 | # | Reel | Resource |
