@@ -211,7 +211,7 @@ async function detail(id){
       <h2>${esc(v.title)}</h2>
       <p class="quote">“${esc(v.hook)}”</p>
       <div class="actions">
-        <button class="btn" id="copyMain" disabled>${COPY}<span>Copy the prompt</span></button>
+        ${v.type==='Prompt'?`<button class="btn" id="copyMain" disabled>${COPY}<span>Copy the prompt</span></button>`:''}
         <a class="btn ghostbtn" href="https://github.com/orzanai/ai-vault/blob/main/${esc(v.file)}" target="_blank" rel="noopener">View on GitHub</a>
       </div>
     </div>
@@ -232,7 +232,7 @@ async function detail(id){
       const w=document.createElement('div');w.className='codewrap';pre.replaceWith(w);w.append(b,pre);
     });
     const main=document.getElementById('copyMain');
-    if(blocks.length){main.disabled=false;main.onclick=async()=>{
+    if(main&&blocks.length){main.disabled=false;main.onclick=async()=>{
       if(await copyText(blocks[0].querySelector('code').innerText)){main.classList.add('ok');main.innerHTML=CHECK+'<span>Copied. Paste it into Claude Code</span>';toast('Prompt copied');
         setTimeout(()=>{main.classList.remove('ok');main.innerHTML=COPY+'<span>Copy the prompt</span>'},2400)}}}
   }catch(e){
