@@ -7,7 +7,27 @@
     "hook": "Your vibe-coded app has 7 security holes. Hackers know them. You don't.",
     "summary": "One prompt that makes Claude Code audit your project for leaked keys, open databases, missing rate limits and more, then fixes them with your approval.",
     "type": "Prompt",
-    "tags": ["security", "claude code", "supabase"],
+    "tags": [
+      "security",
+      "claude code",
+      "supabase"
+    ],
     "file": "01-audit.md"
+  },
+  {
+    "id": "skills",
+    "n": "02",
+    "keyword": "SKILLS",
+    "title": "5 free add-ons for Claude Code",
+    "hook": "Your Claude Code is running at 20%. These 5 free add-ons unlock the rest.",
+    "summary": "Superpowers, Karpathy rules, Addy Osmani's Agent Skills, Anthropic's official skills and Chrome DevTools MCP, with the install commands for each.",
+    "type": "Links",
+    "tags": [
+      "claude code",
+      "skills",
+      "plugins",
+      "mcp"
+    ],
+    "file": "02-skills.md"
   }
 ]
