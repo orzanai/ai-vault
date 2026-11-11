@@ -9,6 +9,7 @@ New reels add new entries. ⭐ Star the repo to get them.
 | # | Reel | Resource |
 |---|------|----------|
 | 01 | Your vibe-coded app has 7 security holes | [AUDIT prompt](01-audit.md) |
+| 02 | Your Claude Code is running at 20% | [SKILLS: 5 add-ons](02-skills.md) |
 
 ---
 
