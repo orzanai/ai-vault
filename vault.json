@@ -29,5 +29,21 @@
       "mcp"
     ],
     "file": "02-skills.md"
+  },
+  {
+    "id": "watch",
+    "n": "03",
+    "keyword": "WATCH",
+    "title": "Turn any YouTube video into a Claude skill",
+    "hook": "Claude can watch any YouTube video and turn it into a skill it uses forever.",
+    "summary": "Install the free /watch plugin, paste a link with the exact prompt, and Claude writes a SKILL.md it uses automatically from then on.",
+    "type": "Guide",
+    "tags": [
+      "claude code",
+      "skills",
+      "youtube",
+      "plugins"
+    ],
+    "file": "03-watch.md"
   }
 ]
