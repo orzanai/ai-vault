@@ -11,6 +11,7 @@ New reels add new entries. ⭐ Star the repo to get them.
 | 01 | Your vibe-coded app has 7 security holes | [AUDIT prompt](01-audit.md) |
 | 02 | Your Claude Code is running at 20% | [SKILLS: 5 add-ons](02-skills.md) |
 | 03 | Claude can watch YouTube and turn it into a skill | [WATCH: video → skill](03-watch.md) |
+| 04 | I run a company of AI agents while I sleep | [TEAM: Paperclip setup](04-team.md) |
 
 ---
 
