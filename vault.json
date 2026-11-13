@@ -45,5 +45,21 @@
       "plugins"
     ],
     "file": "03-watch.md"
+  },
+  {
+    "id": "team",
+    "n": "04",
+    "keyword": "TEAM",
+    "title": "Run a team of AI agents while you sleep",
+    "hook": "Most people run one AI agent. I run a whole company of them, and they work while I sleep.",
+    "summary": "Paperclip, the free open-source org chart for AI agents: one install command, the 3-step setup, and the budgets and approval gates that keep it safe overnight.",
+    "type": "Guide",
+    "tags": [
+      "ai agents",
+      "paperclip",
+      "claude code",
+      "automation"
+    ],
+    "file": "04-team.md"
   }
 ]
