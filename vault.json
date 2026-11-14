@@ -61,5 +61,21 @@
       "automation"
     ],
     "file": "04-team.md"
+  },
+  {
+    "id": "plug",
+    "n": "05",
+    "keyword": "PLUG",
+    "title": "The 5 MCPs to plug in first",
+    "hook": "Explain it like I'm five: what's an MCP?",
+    "summary": "GitHub, Notion, Context7, Playwright and Figma: the one-line command to plug each into Claude Code, plus how to keep your setup safe.",
+    "type": "Links",
+    "tags": [
+      "mcp",
+      "claude code",
+      "github",
+      "notion"
+    ],
+    "file": "05-plug.md"
   }
 ]
