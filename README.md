@@ -12,6 +12,7 @@ New reels add new entries. ⭐ Star the repo to get them.
 | 02 | Your Claude Code is running at 20% | [SKILLS: 5 add-ons](02-skills.md) |
 | 03 | Claude can watch YouTube and turn it into a skill | [WATCH: video → skill](03-watch.md) |
 | 04 | I run a company of AI agents while I sleep | [TEAM: Paperclip setup](04-team.md) |
+| 05 | Explain it like I'm five: what's an MCP? | [PLUG: 5 MCPs to start with](05-plug.md) |
 
 ---
 
