@@ -1,81 +1,98 @@
 [
-  {
-    "id": "audit",
-    "n": "01",
-    "keyword": "AUDIT",
-    "title": "7 security holes in vibe-coded apps",
-    "hook": "Your vibe-coded app has 7 security holes. Hackers know them. You don't.",
-    "summary": "One prompt that makes Claude Code audit your project for leaked keys, open databases, missing rate limits and more, then fixes them with your approval.",
-    "type": "Prompt",
-    "tags": [
-      "security",
-      "claude code",
-      "supabase"
-    ],
-    "file": "01-audit.md"
-  },
-  {
-    "id": "skills",
-    "n": "02",
-    "keyword": "SKILLS",
-    "title": "5 free add-ons for Claude Code",
-    "hook": "Your Claude Code is running at 20%. These 5 free add-ons unlock the rest.",
-    "summary": "Superpowers, Karpathy rules, Addy Osmani's Agent Skills, Anthropic's official skills and Chrome DevTools MCP, with the install commands for each.",
-    "type": "Links",
-    "tags": [
-      "claude code",
-      "skills",
-      "plugins",
-      "mcp"
-    ],
-    "file": "02-skills.md"
-  },
-  {
-    "id": "watch",
-    "n": "03",
-    "keyword": "WATCH",
-    "title": "Turn any YouTube video into a Claude skill",
-    "hook": "Claude can watch any YouTube video and turn it into a skill it uses forever.",
-    "summary": "Install the free /watch plugin, paste a link with the exact prompt, and Claude writes a SKILL.md it uses automatically from then on.",
-    "type": "Guide",
-    "tags": [
-      "claude code",
-      "skills",
-      "youtube",
-      "plugins"
-    ],
-    "file": "03-watch.md"
-  },
-  {
-    "id": "team",
-    "n": "04",
-    "keyword": "TEAM",
-    "title": "Run a team of AI agents while you sleep",
-    "hook": "Most people run one AI agent. I run a whole company of them, and they work while I sleep.",
-    "summary": "Paperclip, the free open-source org chart for AI agents: one install command, the 3-step setup, and the budgets and approval gates that keep it safe overnight.",
-    "type": "Guide",
-    "tags": [
-      "ai agents",
-      "paperclip",
-      "claude code",
-      "automation"
-    ],
-    "file": "04-team.md"
-  },
-  {
-    "id": "plug",
-    "n": "05",
-    "keyword": "PLUG",
-    "title": "The 5 MCPs to plug in first",
-    "hook": "Explain it like I'm five: what's an MCP?",
-    "summary": "GitHub, Notion, Context7, Playwright and Figma: the one-line command to plug each into Claude Code, plus how to keep your setup safe.",
-    "type": "Links",
-    "tags": [
-      "mcp",
-      "claude code",
-      "github",
-      "notion"
-    ],
-    "file": "05-plug.md"
-  }
+ {
+  "id": "audit",
+  "n": "01",
+  "keyword": "AUDIT",
+  "title": "7 security holes in vibe-coded apps",
+  "hook": "Your vibe-coded app has 7 security holes. Hackers know them. You don't.",
+  "summary": "One prompt that makes Claude Code audit your project for leaked keys, open databases, missing rate limits and more, then fixes them with your approval.",
+  "type": "Prompt",
+  "tags": [
+   "security",
+   "claude code",
+   "supabase"
+  ],
+  "file": "01-audit.md"
+ },
+ {
+  "id": "skills",
+  "n": "02",
+  "keyword": "SKILLS",
+  "title": "5 free add-ons for Claude Code",
+  "hook": "Your Claude Code is running at 20%. These 5 free add-ons unlock the rest.",
+  "summary": "Superpowers, Karpathy rules, Addy Osmani's Agent Skills, Anthropic's official skills and Chrome DevTools MCP, with the install commands for each.",
+  "type": "Links",
+  "tags": [
+   "claude code",
+   "skills",
+   "plugins",
+   "mcp"
+  ],
+  "file": "02-skills.md"
+ },
+ {
+  "id": "watch",
+  "n": "03",
+  "keyword": "WATCH",
+  "title": "Turn any YouTube video into a Claude skill",
+  "hook": "Claude can watch any YouTube video and turn it into a skill it uses forever.",
+  "summary": "Install the free /watch plugin, paste a link with the exact prompt, and Claude writes a SKILL.md it uses automatically from then on.",
+  "type": "Guide",
+  "tags": [
+   "claude code",
+   "skills",
+   "youtube",
+   "plugins"
+  ],
+  "file": "03-watch.md"
+ },
+ {
+  "id": "team",
+  "n": "04",
+  "keyword": "TEAM",
+  "title": "Run a team of AI agents while you sleep",
+  "hook": "Most people run one AI agent. I run a whole company of them, and they work while I sleep.",
+  "summary": "Paperclip, the free open-source org chart for AI agents: one install command, the 3-step setup, and the budgets and approval gates that keep it safe overnight.",
+  "type": "Guide",
+  "tags": [
+   "ai agents",
+   "paperclip",
+   "claude code",
+   "automation"
+  ],
+  "file": "04-team.md"
+ },
+ {
+  "id": "plug",
+  "n": "05",
+  "keyword": "PLUG",
+  "title": "The 5 MCPs to plug in first",
+  "hook": "Explain it like I'm five: what's an MCP?",
+  "summary": "GitHub, Notion, Context7, Playwright and Figma: the one-line command to plug each into Claude Code, plus how to keep your setup safe.",
+  "type": "Links",
+  "tags": [
+   "mcp",
+   "claude code",
+   "github",
+   "notion"
+  ],
+  "file": "05-plug.md"
+ },
+ {
+  "id": "book",
+  "n": "06",
+  "keyword": "BOOK",
+  "title": "3 easiest ways to give Claude your own files (RAG)",
+  "hook": "Stop letting your AI guess. Make it read your files first.",
+  "summary": "RAG in one line, how it finds the right pages, then three ways to give Claude your own files today: Claude Projects, the Google Drive connector and Claude Code on a folder. Plus Gemini Notebook as a bonus and where to start if you want to build RAG yourself.",
+  "type": "Guide",
+  "tags": [
+   "rag",
+   "claude",
+   "projects",
+   "google drive",
+   "eli5"
+  ],
+  "file": "06-book.md"
+ }
 ]
