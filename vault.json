@@ -94,5 +94,22 @@
    "eli5"
   ],
   "file": "06-book.md"
+ },
+ {
+  "id": "tokens",
+  "n": "07",
+  "keyword": "TOKENS",
+  "title": "See what ChatGPT sees in your messages (tokens)",
+  "hook": "ChatGPT can't read. Here's what it sees instead of your words.",
+  "summary": "The free token viewer, the same thing in 3 lines of Python, what happens inside the model step by step (tokens, embeddings, attention, layers, scores, the loop), and where to go deeper.",
+  "type": "Guide",
+  "tags": [
+   "tokens",
+   "chatgpt",
+   "llm",
+   "attention",
+   "embeddings"
+  ],
+  "file": "07-tokens.md"
  }
 ]

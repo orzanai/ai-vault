@@ -14,6 +14,7 @@ New reels add new entries. ⭐ Star the repo to get them.
 | 04 | I run a company of AI agents while I sleep | [TEAM: Paperclip setup](04-team.md) |
 | 05 | Explain it like I'm five: what's an MCP? | [PLUG: 5 MCPs to start with](05-plug.md) |
 | 06 | Explain it like I'm five: what's RAG? | [BOOK: 3 easiest ways to give Claude your own files](06-book.md) |
+| 07 | ChatGPT can't read: what it sees instead | [TOKENS: see what ChatGPT sees in your messages](07-tokens.md) |
 
 ---
 
