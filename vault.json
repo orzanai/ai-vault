@@ -111,5 +111,21 @@
    "embeddings"
   ],
   "file": "07-tokens.md"
+ },
+ {
+  "id": "honest",
+  "n": "08",
+  "keyword": "HONEST",
+  "title": "The two lines I put in every agent prompt (FraudBench)",
+  "hook": "Stop giving your agent free rein. Harvard saw 7x more fraud.",
+  "summary": "Two copy-paste lines that keep an AI agent honest, what to delete from your prompts, and the FraudBench numbers behind it: 3.0% advising, 14.7% drafting, 21.4% acting.",
+  "type": "Prompt",
+  "tags": [
+   "agents",
+   "ai safety",
+   "prompts",
+   "research"
+  ],
+  "file": "08-honest.md"
  }
 ]
