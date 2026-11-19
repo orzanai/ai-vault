@@ -127,5 +127,21 @@
    "research"
   ],
   "file": "08-honest.md"
+ },
+ {
+  "id": "game",
+  "n": "09",
+  "keyword": "GAME",
+  "title": "One sentence → a game you can play (Claude Code Game Studios)",
+  "hook": "Stop making games alone. Give your Claude 49 free agents.",
+  "summary": "The free 40K-star repo that turns Claude Code into a game studio: setup in 5 minutes, the exact first prompt, why to start in light mode (the authors' own test ranked the heavy setup last) and first game ideas.",
+  "type": "Guide",
+  "tags": [
+   "claude code",
+   "game dev",
+   "agents",
+   "vibe coding"
+  ],
+  "file": "09-game.md"
  }
 ]

@@ -16,6 +16,7 @@ New reels add new entries. ⭐ Star the repo to get them.
 | 06 | Explain it like I'm five: what's RAG? | [BOOK: 3 easiest ways to give Claude your own files](06-book.md) |
 | 07 | ChatGPT can't read: what it sees instead | [TOKENS: see what ChatGPT sees in your messages](07-tokens.md) |
 | 08 | Your agent and the 7x fraud study | [HONEST: the two lines I put in every agent prompt](08-honest.md) |
+| 09 | One sentence → a game, 49 free agents | [GAME: Claude Code Game Studios setup + first prompt](09-game.md) |
 
 ---
 
