@@ -143,5 +143,21 @@
    "vibe coding"
   ],
   "file": "09-game.md"
+ },
+ {
+  "id": "limits",
+  "n": "10",
+  "keyword": "LIMITS",
+  "title": "Real ways to cut your Claude Code token use (and the Graphify 70x check)",
+  "hook": "Stop wasting your Claude limit. Free Graphify cuts it 70x. Well… or not.",
+  "summary": "Every tip from Anthropic's own Claude Code docs that actually lowers usage: /clear vs /compact, CLAUDE.md under 200 lines, idle MCP servers, model and effort, subagents and hooks. Plus where Graphify's 70x really comes from and when it's worth installing.",
+  "type": "Checklist",
+  "tags": [
+   "claude code",
+   "tokens",
+   "usage limits",
+   "graphify"
+  ],
+  "file": "10-limits.md"
  }
 ]
