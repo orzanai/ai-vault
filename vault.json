@@ -1,163 +1,179 @@
 [
- {
-  "id": "audit",
-  "n": "01",
-  "keyword": "AUDIT",
-  "title": "7 security holes in vibe-coded apps",
-  "hook": "Your vibe-coded app has 7 security holes. Hackers know them. You don't.",
-  "summary": "One prompt that makes Claude Code audit your project for leaked keys, open databases, missing rate limits and more, then fixes them with your approval.",
-  "type": "Prompt",
-  "tags": [
-   "security",
-   "claude code",
-   "supabase"
-  ],
-  "file": "01-audit.md"
- },
- {
-  "id": "skills",
-  "n": "02",
-  "keyword": "SKILLS",
-  "title": "5 free add-ons for Claude Code",
-  "hook": "Your Claude Code is running at 20%. These 5 free add-ons unlock the rest.",
-  "summary": "Superpowers, Karpathy rules, Addy Osmani's Agent Skills, Anthropic's official skills and Chrome DevTools MCP, with the install commands for each.",
-  "type": "Links",
-  "tags": [
-   "claude code",
-   "skills",
-   "plugins",
-   "mcp"
-  ],
-  "file": "02-skills.md"
- },
- {
-  "id": "watch",
-  "n": "03",
-  "keyword": "WATCH",
-  "title": "Turn any YouTube video into a Claude skill",
-  "hook": "Claude can watch any YouTube video and turn it into a skill it uses forever.",
-  "summary": "Install the free /watch plugin, paste a link with the exact prompt, and Claude writes a SKILL.md it uses automatically from then on.",
-  "type": "Guide",
-  "tags": [
-   "claude code",
-   "skills",
-   "youtube",
-   "plugins"
-  ],
-  "file": "03-watch.md"
- },
- {
-  "id": "team",
-  "n": "04",
-  "keyword": "TEAM",
-  "title": "Run a team of AI agents while you sleep",
-  "hook": "Most people run one AI agent. I run a whole company of them, and they work while I sleep.",
-  "summary": "Paperclip, the free open-source org chart for AI agents: one install command, the 3-step setup, and the budgets and approval gates that keep it safe overnight.",
-  "type": "Guide",
-  "tags": [
-   "ai agents",
-   "paperclip",
-   "claude code",
-   "automation"
-  ],
-  "file": "04-team.md"
- },
- {
-  "id": "plug",
-  "n": "05",
-  "keyword": "PLUG",
-  "title": "The 5 MCPs to plug in first",
-  "hook": "Explain it like I'm five: what's an MCP?",
-  "summary": "GitHub, Notion, Context7, Playwright and Figma: the one-line command to plug each into Claude Code, plus how to keep your setup safe.",
-  "type": "Links",
-  "tags": [
-   "mcp",
-   "claude code",
-   "github",
-   "notion"
-  ],
-  "file": "05-plug.md"
- },
- {
-  "id": "book",
-  "n": "06",
-  "keyword": "BOOK",
-  "title": "3 easiest ways to give Claude your own files (RAG)",
-  "hook": "Stop letting your AI guess. Make it read your files first.",
-  "summary": "RAG in one line, how it finds the right pages, then three ways to give Claude your own files today: Claude Projects, the Google Drive connector and Claude Code on a folder. Plus Gemini Notebook as a bonus and where to start if you want to build RAG yourself.",
-  "type": "Guide",
-  "tags": [
-   "rag",
-   "claude",
-   "projects",
-   "google drive",
-   "eli5"
-  ],
-  "file": "06-book.md"
- },
- {
-  "id": "tokens",
-  "n": "07",
-  "keyword": "TOKENS",
-  "title": "See what ChatGPT sees in your messages (tokens)",
-  "hook": "ChatGPT can't read. Here's what it sees instead of your words.",
-  "summary": "The free token viewer, the same thing in 3 lines of Python, what happens inside the model step by step (tokens, embeddings, attention, layers, scores, the loop), and where to go deeper.",
-  "type": "Guide",
-  "tags": [
-   "tokens",
-   "chatgpt",
-   "llm",
-   "attention",
-   "embeddings"
-  ],
-  "file": "07-tokens.md"
- },
- {
-  "id": "honest",
-  "n": "08",
-  "keyword": "HONEST",
-  "title": "The two lines I put in every agent prompt (FraudBench)",
-  "hook": "Stop giving your agent free rein. Harvard saw 7x more fraud.",
-  "summary": "Two copy-paste lines that keep an AI agent honest, what to delete from your prompts, and the FraudBench numbers behind it: 3.0% advising, 14.7% drafting, 21.4% acting.",
-  "type": "Prompt",
-  "tags": [
-   "agents",
-   "ai safety",
-   "prompts",
-   "research"
-  ],
-  "file": "08-honest.md"
- },
- {
-  "id": "game",
-  "n": "09",
-  "keyword": "GAME",
-  "title": "One sentence → a game you can play (Claude Code Game Studios)",
-  "hook": "Stop making games alone. Give your Claude 49 free agents.",
-  "summary": "The free 40K-star repo that turns Claude Code into a game studio: setup in 5 minutes, the exact first prompt, why to start in light mode (the authors' own test ranked the heavy setup last) and first game ideas.",
-  "type": "Guide",
-  "tags": [
-   "claude code",
-   "game dev",
-   "agents",
-   "vibe coding"
-  ],
-  "file": "09-game.md"
- },
- {
-  "id": "limits",
-  "n": "10",
-  "keyword": "LIMITS",
-  "title": "Real ways to cut your Claude Code token use (and the Graphify 70x check)",
-  "hook": "Stop wasting your Claude limit. Free Graphify cuts it 70x. Well… or not.",
-  "summary": "Every tip from Anthropic's own Claude Code docs that actually lowers usage: /clear vs /compact, CLAUDE.md under 200 lines, idle MCP servers, model and effort, subagents and hooks. Plus where Graphify's 70x really comes from and when it's worth installing.",
-  "type": "Checklist",
-  "tags": [
-   "claude code",
-   "tokens",
-   "usage limits",
-   "graphify"
-  ],
-  "file": "10-limits.md"
- }
+  {
+    "id": "audit",
+    "n": "01",
+    "keyword": "AUDIT",
+    "title": "7 security holes in vibe-coded apps",
+    "hook": "Your vibe-coded app has 7 security holes. Hackers know them. You don't.",
+    "summary": "One prompt that makes Claude Code audit your project for leaked keys, open databases, missing rate limits and more, then fixes them with your approval.",
+    "type": "Prompt",
+    "tags": [
+      "security",
+      "claude code",
+      "supabase"
+    ],
+    "file": "01-audit.md"
+  },
+  {
+    "id": "skills",
+    "n": "02",
+    "keyword": "SKILLS",
+    "title": "5 free add-ons for Claude Code",
+    "hook": "Your Claude Code is running at 20%. These 5 free add-ons unlock the rest.",
+    "summary": "Superpowers, Karpathy rules, Addy Osmani's Agent Skills, Anthropic's official skills and Chrome DevTools MCP, with the install commands for each.",
+    "type": "Links",
+    "tags": [
+      "claude code",
+      "skills",
+      "plugins",
+      "mcp"
+    ],
+    "file": "02-skills.md"
+  },
+  {
+    "id": "watch",
+    "n": "03",
+    "keyword": "WATCH",
+    "title": "Turn any YouTube video into a Claude skill",
+    "hook": "Claude can watch any YouTube video and turn it into a skill it uses forever.",
+    "summary": "Install the free /watch plugin, paste a link with the exact prompt, and Claude writes a SKILL.md it uses automatically from then on.",
+    "type": "Guide",
+    "tags": [
+      "claude code",
+      "skills",
+      "youtube",
+      "plugins"
+    ],
+    "file": "03-watch.md"
+  },
+  {
+    "id": "team",
+    "n": "04",
+    "keyword": "TEAM",
+    "title": "Run a team of AI agents while you sleep",
+    "hook": "Most people run one AI agent. I run a whole company of them, and they work while I sleep.",
+    "summary": "Paperclip, the free open-source org chart for AI agents: one install command, the 3-step setup, and the budgets and approval gates that keep it safe overnight.",
+    "type": "Guide",
+    "tags": [
+      "ai agents",
+      "paperclip",
+      "claude code",
+      "automation"
+    ],
+    "file": "04-team.md"
+  },
+  {
+    "id": "plug",
+    "n": "05",
+    "keyword": "PLUG",
+    "title": "The 5 MCPs to plug in first",
+    "hook": "Explain it like I'm five: what's an MCP?",
+    "summary": "GitHub, Notion, Context7, Playwright and Figma: the one-line command to plug each into Claude Code, plus how to keep your setup safe.",
+    "type": "Links",
+    "tags": [
+      "mcp",
+      "claude code",
+      "github",
+      "notion"
+    ],
+    "file": "05-plug.md"
+  },
+  {
+    "id": "book",
+    "n": "06",
+    "keyword": "BOOK",
+    "title": "3 easiest ways to give Claude your own files (RAG)",
+    "hook": "Stop letting your AI guess. Make it read your files first.",
+    "summary": "RAG in one line, how it finds the right pages, then three ways to give Claude your own files today: Claude Projects, the Google Drive connector and Claude Code on a folder. Plus Gemini Notebook as a bonus and where to start if you want to build RAG yourself.",
+    "type": "Guide",
+    "tags": [
+      "rag",
+      "claude",
+      "projects",
+      "google drive",
+      "eli5"
+    ],
+    "file": "06-book.md"
+  },
+  {
+    "id": "tokens",
+    "n": "07",
+    "keyword": "TOKENS",
+    "title": "See what ChatGPT sees in your messages (tokens)",
+    "hook": "ChatGPT can't read. Here's what it sees instead of your words.",
+    "summary": "The free token viewer, the same thing in 3 lines of Python, what happens inside the model step by step (tokens, embeddings, attention, layers, scores, the loop), and where to go deeper.",
+    "type": "Guide",
+    "tags": [
+      "tokens",
+      "chatgpt",
+      "llm",
+      "attention",
+      "embeddings"
+    ],
+    "file": "07-tokens.md"
+  },
+  {
+    "id": "honest",
+    "n": "08",
+    "keyword": "HONEST",
+    "title": "The two lines I put in every agent prompt (FraudBench)",
+    "hook": "Stop giving your agent free rein. Harvard saw 7x more fraud.",
+    "summary": "Two copy-paste lines that keep an AI agent honest, what to delete from your prompts, and the FraudBench numbers behind it: 3.0% advising, 14.7% drafting, 21.4% acting.",
+    "type": "Prompt",
+    "tags": [
+      "agents",
+      "ai safety",
+      "prompts",
+      "research"
+    ],
+    "file": "08-honest.md"
+  },
+  {
+    "id": "game",
+    "n": "09",
+    "keyword": "GAME",
+    "title": "One sentence → a game you can play (Claude Code Game Studios)",
+    "hook": "Stop making games alone. Give your Claude 49 free agents.",
+    "summary": "The free 40K-star repo that turns Claude Code into a game studio: setup in 5 minutes, the exact first prompt, why to start in light mode (the authors' own test ranked the heavy setup last) and first game ideas.",
+    "type": "Guide",
+    "tags": [
+      "claude code",
+      "game dev",
+      "agents",
+      "vibe coding"
+    ],
+    "file": "09-game.md"
+  },
+  {
+    "id": "limits",
+    "n": "10",
+    "keyword": "LIMITS",
+    "title": "Real ways to cut your Claude Code token use (and the Graphify 70x check)",
+    "hook": "Stop wasting your Claude limit. Free Graphify cuts it 70x. Well… or not.",
+    "summary": "Every tip from Anthropic's own Claude Code docs that actually lowers usage: /clear vs /compact, CLAUDE.md under 200 lines, idle MCP servers, model and effort, subagents and hooks. Plus where Graphify's 70x really comes from and when it's worth installing.",
+    "type": "Checklist",
+    "tags": [
+      "claude code",
+      "tokens",
+      "usage limits",
+      "graphify"
+    ],
+    "file": "10-limits.md"
+  },
+  {
+    "id": "ultra",
+    "n": "12",
+    "keyword": "ULTRA",
+    "title": "Get 6 months of Claude Ultra free through open source",
+    "hook": "Stop paying $200 for Claude. Your GitHub can get it free.",
+    "summary": "Claude for Open Source gives 6 months of Claude Ultra ($1,200) to open-source builders. The five ways to qualify, a 10-second GitHub check for the 100-merged-PRs track, the apply link and what to write in the 'apply anyway' box.",
+    "type": "Guide",
+    "tags": [
+      "claude",
+      "claude ultra",
+      "open source",
+      "github"
+    ],
+    "file": "12-ultra.md"
+  }
 ]

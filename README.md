@@ -18,6 +18,7 @@ New reels add new entries. ⭐ Star the repo to get them.
 | 08 | Your agent and the 7x fraud study | [HONEST: the two lines I put in every agent prompt](08-honest.md) |
 | 09 | One sentence → a game, 49 free agents | [GAME: Claude Code Game Studios setup + first prompt](09-game.md) |
 | 10 | Graphify's 70x, checked + real token savers | [LIMITS: cut your Claude Code token use](10-limits.md) |
+| 12 | Claude Ultra free for open source | [ULTRA: 6 months of Claude Ultra free](12-ultra.md) |
 
 ---
 
