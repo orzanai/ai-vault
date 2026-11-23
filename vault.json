@@ -175,5 +175,22 @@
       "github"
     ],
     "file": "12-ultra.md"
+  },
+  {
+    "id": "jarvis",
+    "n": "13",
+    "keyword": "JARVIS",
+    "title": "Stanford's free JARVIS: OpenJarvis setup for a spoken morning briefing",
+    "hook": "Tony Stark's JARVIS is free now. Stanford built it for your laptop.",
+    "summary": "The exact 4 commands to install Stanford's open-source OpenJarvis, connect Gmail and Calendar, and hear your first spoken morning briefing. Plus a Claude Code prompt that installs it for you, the other presets, and honest limits.",
+    "type": "Guide",
+    "tags": [
+      "jarvis",
+      "openjarvis",
+      "stanford",
+      "local ai",
+      "claude code"
+    ],
+    "file": "13-jarvis.md"
   }
 ]
