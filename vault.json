@@ -192,5 +192,22 @@
       "claude code"
     ],
     "file": "13-jarvis.md"
+  },
+  {
+    "id": "free",
+    "n": "14",
+    "keyword": "FREE",
+    "title": "4 paid apps and their free copies on GitHub ($80/mo → $0)",
+    "hook": "Claude just made $80 of my subscriptions free.",
+    "summary": "Midjourney → Invoke, Photoshop → Krita + AI Diffusion, Topaz Photo → Upscayl, ElevenLabs → VoiceStudio. Direct download links, which file to pick, one Claude Code prompt that installs all four, and honest limits.",
+    "type": "Guide",
+    "tags": [
+      "free apps",
+      "open source",
+      "github",
+      "claude code",
+      "midjourney alternative"
+    ],
+    "file": "14-free.md"
   }
 ]
