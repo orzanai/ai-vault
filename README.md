@@ -20,6 +20,7 @@ New reels add new entries. ⭐ Star the repo to get them.
 | 10 | Graphify's 70x, checked + real token savers | [LIMITS: cut your Claude Code token use](10-limits.md) |
 | 12 | Claude Ultra free for open source | [ULTRA: 6 months of Claude Ultra free](12-ultra.md) |
 | 13 | Stanford's free JARVIS (OpenJarvis) | [JARVIS: the exact setup commands](13-jarvis.md) |
+| 14 | 4 paid apps with free copies on GitHub | [FREE: Invoke, Krita AI, Upscayl, VoiceStudio](14-free.md) |
 
 ---
 
