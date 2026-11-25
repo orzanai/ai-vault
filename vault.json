@@ -209,5 +209,22 @@
       "midjourney alternative"
     ],
     "file": "14-free.md"
+  },
+  {
+    "id": "wifi",
+    "n": "15",
+    "keyword": "WIFI",
+    "title": "Let Claude find out why your Wi-Fi is slow (and what to change)",
+    "hook": "Claude can now fix your slow Wi-Fi and make it up to 10x faster, for absolutely free.",
+    "summary": "One Claude Code prompt (Mac + Windows) that scans your Wi-Fi channels, shows your link speed, finds your router's settings page and tells you exactly which channel or band to switch to. Plus a ready message if you can't touch the router, and when it's not the channel.",
+    "type": "Guide",
+    "tags": [
+      "wifi",
+      "claude code",
+      "router",
+      "5 ghz",
+      "tech tips"
+    ],
+    "file": "15-wifi.md"
   }
 ]
