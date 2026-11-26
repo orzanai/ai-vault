@@ -22,6 +22,7 @@ New reels add new entries. ⭐ Star the repo to get them.
 | 13 | Stanford's free JARVIS (OpenJarvis) | [JARVIS: the exact setup commands](13-jarvis.md) |
 | 14 | 4 paid apps with free copies on GitHub | [FREE: Invoke, Krita AI, Upscayl, VoiceStudio](14-free.md) |
 | 15 | Claude fixes your slow Wi-Fi | [WIFI: the channel scan + router prompt](15-wifi.md) |
+| 16 | Claude watches your saved reels | [SAVED: the saved-reels prompt](16-saved.md) |
 
 ---
 
