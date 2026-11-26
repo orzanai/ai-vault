@@ -226,5 +226,22 @@
       "tech tips"
     ],
     "file": "15-wifi.md"
+  },
+  {
+    "id": "saved",
+    "n": "16",
+    "keyword": "SAVED",
+    "title": "Let Claude go through your saved reels and hand you the 5 worth doing",
+    "hook": "Stop saving reels. I have 4,161 saved. I never go back.",
+    "summary": "Export your saved list from Instagram, paste one Claude Code prompt, and Claude opens your newest 50 reels in your browser, reads the caption and the text on screen, sorts them into topics and gives you the 5 worth doing this week. Read-only: it never likes, unsaves or messages anything.",
+    "type": "Guide",
+    "tags": [
+      "instagram",
+      "saved reels",
+      "claude code",
+      "productivity",
+      "claude in chrome"
+    ],
+    "file": "16-saved.md"
   }
 ]
