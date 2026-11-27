@@ -243,5 +243,22 @@
       "claude in chrome"
     ],
     "file": "16-saved.md"
+  },
+  {
+    "id": "jobs",
+    "n": "17",
+    "keyword": "JOBS",
+    "title": "Let Claude check 30 company career pages for you",
+    "hook": "Delete LinkedIn. Claude checks 30 career pages for you in 7 minutes.",
+    "summary": "One Claude Code prompt: set a role, city and level, and Claude checks at least 30 companies' own job boards (no LinkedIn or aggregators), lists only open roles it actually saw with direct links, and says so honestly when there's no match.",
+    "type": "Guide",
+    "tags": [
+      "job search",
+      "claude code",
+      "careers",
+      "job hunting",
+      "no linkedin"
+    ],
+    "file": "17-jobs.md"
   }
 ]
